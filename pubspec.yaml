@@ -1,0 +1,65 @@
+name: cat
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/cat/assets/images/layer1.svg
+    - packages/cat/assets/images/landingpagesvg.svg
+    - packages/cat/assets/images/rectangle33.png
+    - packages/cat/assets/images/rectangle34.png
+    - packages/cat/assets/images/rectangle35.png
+    - packages/cat/assets/images/attachmoney.svg
+    - packages/cat/assets/images/showchart.svg
+    - packages/cat/assets/images/code.svg
+    - packages/cat/assets/images/scene241.png
+    - packages/cat/assets/images/53531341.png
+    - packages/cat/assets/images/55514dfd272080a0f6f0e2074205aa801.png
+    - packages/cat/assets/images/manworkinghiscomputer2321475089971.png
+    - packages/cat/assets/images/vectorcolourfullandscapeillustration1.png
+    - packages/cat/assets/images/team11.png
+    - ""
+    - ""
+    - packages/cat/assets/images/55514dfd272080a0f6f0e2074205aa802.png
+    - packages/cat/assets/images/citybuildings415635334495681.png
+    - packages/cat/assets/images/keyboardarrowdown.svg
+    - packages/cat/assets/images/layers.svg
+    - packages/cat/assets/images/line1.svg
+    - packages/cat/assets/images/ellipse1.png
+    - packages/cat/assets/images/star.svg
+    - packages/cat/assets/images/arrowforward.svg
+    - packages/cat/assets/images/rectangle40.png
+    - packages/cat/assets/images/ellipse2.png
+    - packages/cat/assets/images/locationon.svg
+    - packages/cat/assets/images/mailoutline.svg
+    - packages/cat/assets/images/phone.svg
+    - packages/cat/assets/images/speakernotes.svg
+    - packages/cat/assets/images/vector.svg
+    - packages/cat/assets/images/graphiceq.svg
+    - packages/cat/assets/images/group.svg
+    - packages/cat/assets/images/linkedinlogo.svg
+    - packages/cat/assets/images/ebene1.svg
+    - packages/cat/assets/images/g135.svg
+    - packages/cat/assets/images/accountcircle.svg
+    - packages/cat/assets/images/vectarytexture.png
+    - ""
+    - ""
+    - >
+    - >
+    - >
+      packages/cat/assets/images/57186969onlineeducationtrainingillustrationposterwithteacherstandingattheblackboardandexplaining1.png
+    - >
+      packages/cat/assets/images/educationclassroomillustrationstudentsaudiencelisteningteacherbusinesstraining600492561.png
